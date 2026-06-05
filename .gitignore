@@ -1,0 +1,24 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Dados processados (gerados pelo pipeline)
+data/processed/
+
+# Artefatos de IDE / sistema
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
+
+# Temporários de análise
+_results*.json
+_capture_*.py

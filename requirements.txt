@@ -1,0 +1,16 @@
+# Manipulação e análise de dados
+pandas==2.2.3
+numpy==1.26.4
+pyarrow==19.0.1
+
+# Estatística e modelagem
+scipy==1.15.2
+statsmodels==0.14.4
+scikit-learn==1.6.1
+
+# Visualização
+matplotlib==3.10.1
+seaborn==0.13.2
+
+# Notebook
+jupyter==1.1.1
